@@ -1,6 +1,6 @@
-* {
+/* {
     border: 1px solid red !important;
-}
+}*/
 
 * {
     -webkit-box-sizing: border-box;
@@ -11,6 +11,12 @@
 
 * {
     font-family: 'Lato', sans-serif;
+    color: #ffffff;
+
+}
+
+body {
+    background-color: black;
 }
 
 /*@media only screen and (max-width: 500px) {
